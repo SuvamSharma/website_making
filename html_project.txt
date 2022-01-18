@@ -1,0 +1,90 @@
+-----------------------------------------THIS IS CRANES.HTML FILE-------------------------------------------------------------------------------------
+
+<html>
+   <head>
+		  <style>
+		           h1 { text-align: center ; background-color: cyan }
+			      #m1 { text-align: left ; color: blue ; font-size: 16px }
+			  .center { text-align: left  ; background-color: lime; font-size:30px }
+	
+		  </style>
+   </head>
+   
+   <body background="C:\Users\m\Desktop\106724963-1601542574841-gettyimages-1248900510-262a5684.jpeg" >
+      <h1 >
+	     Cranes Varsity International Pvt Limited  
+	     <img id="m1" src="https://www.customercarephonenumber.in/wp-content/uploads/2013/01/Cranes-Software-International-Logo.gif" width =100px height=100px ></img>
+	  </h1>
+	  <u><h2> About Cranes</h2></u>
+	  <p id="m1" >  Cranes Software International Limited is a company that provides Enterprise Statistical Analytics and Engineering 
+		            Simulation Software Products and Solutions across the globe.
+             		The Company's business interests span Products, Productized Solutions, Services and R & D in future technologies.
+
+                    Today, Cranes Software has its presence in 39 countries across the world and has a 350,000 strong global user base. 
+					Cranes Software offers a range of proprietary products - SYSTAT, SigmaPlot, SigmaStat, SigmaScan, TableCurve 2D,
+					TableCurve 3D, PeakFit, NISA, XID, XIP, Survey ASYST, iCapella, InventX and world-renowned products from reputed principals 
+					such as Engineering Technology Associates, Texas Instruments and IBM.
+	  </p><br>
+	  
+	  <h2>For More Details<a href="https://www.cranesvarsity.com/"><br>Click Here</input></a></h2>
+	  
+	  <center>
+	       <h3> <u>FOR ANY ENQUIRY</u>
+	       <table border= 1pts >
+	           <tr><td><a href="form.html" ><input type="button" value="SIGN UP" > </a></td></tr>
+	       </table></h3>
+	  </center> <br><br>
+	  
+	  <label class="center"><u> COURSES OFFERING </u></label><br><br>
+		   <ol>
+     	     <li><a href= "https://www.cranesvarsity.com/training/professional-diploma/pg-diploma-in-data-science-using-python">PGP IN DATA SCIENCE  </a></li><br>
+			 <li><a href= "https://www.cranesvarsity.com/training/professional-diploma/professional-diploma-in-java-technologies">PGP IN JAVA TECHNOLOGY  </a></li><br>
+			 <li><a href= "https://www.cranesvarsity.com/training/professional-diploma/vlsi-design-and-embedded-systems-training">PGP IN VLSI DESIGN AND EMBEDDED SYSTEM </a></li><br>
+			 <li><a href= "https://www.cranesvarsity.com/training/professional-diploma/iot-training-institute-in-bangalore"> PGP IN IOT </a> </li><br>
+			 <li><a href= "https://www.cranesvarsity.com/training/professional-diploma/embedded-systems-training"> PGP IN EMBEDDED SYSTEM  </a></li>
+		  </ol>  
+   </body>
+   
+</html>
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------
+------------------------------------THIS IS FORM.HTML FILE-----------------------------------------------------------------------------------
+<html>
+   <head>
+		  <style>
+		           h1 { text-align: center ; background-color: cyan }
+	
+		  </style>
+   </head>
+   
+   <body background="C:\Users\m\Desktop\106724963-1601542574841-gettyimages-1248900510-262a5684.jpeg" >
+      <h1 >
+	     Cranes Varsity International Pvt Limited  
+	     <img id="m1" src="https://www.customercarephonenumber.in/wp-content/uploads/2013/01/Cranes-Software-International-Logo.gif" width =100px height=100px ></img>
+	  </h1>
+     <!--<marqe><h1>WELOME TO MY WORLD</h1></marquee>-->
+	 <center><table border= 1pts>
+       <tr><th bgcolor="silver">Registration Form</th></tr>
+	 </table>
+	   <form>
+	       <p>
+	         <lable> <b>NAME:</b></lable><input type="text" width=5pts height=5pts><br><br>
+		     <lable> <b>EMAIL ID:</b></lable><input type="email" name="email" width=5pts height=5pts><br><br>
+		    <!--- <lable> <b>PASSWORD:</b></lable><input type="password" width=5pts height=5pts><br><br>-->
+             <lable> <b>MOBILE NUMBER:</b></lable><input type="number" width=5pts height=5pts><br><br>
+			 <lable><b> GENDER:</b></lable> <b>MALE </b><input type="radio" name="gender"></input>
+			 <b> FEMALE</b><input type="radio" name="gender"></input><br><br>
+			 <!--<a href="http://www.facebook.com/suvam.sharma.75/"><input type="button" value="login"></input></a>-->
+			 <input type="submit" value="submit"></input></a><br><br>
+			 <!--<b>Forgot Password</b><a href="pic.html">Click Here</a>-->
+		   </p>
+		</form></center>
+	</body>
+</html>
+	
